@@ -13,9 +13,10 @@ li{
      margin: 0;
     padding: 0;
 }
-h1{
+h2{
     text-align: center;
-    color: aliceblue;
+    color: pink;
+    text-shadow: 1px black;
 }
 
 html{
